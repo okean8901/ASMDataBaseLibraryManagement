@@ -1,0 +1,12 @@
+T:\Study\DDD\ASM library management database\ASM library management database\bin\Debug\ASM library management database.exe.config
+T:\Study\DDD\ASM library management database\ASM library management database\bin\Debug\ASM library management database.exe
+T:\Study\DDD\ASM library management database\ASM library management database\bin\Debug\ASM library management database.pdb
+T:\Study\DDD\ASM library management database\ASM library management database\obj\Debug\ASM library management database.csproj.AssemblyReference.cache
+T:\Study\DDD\ASM library management database\ASM library management database\obj\Debug\ASM_library_management_database.LoginForm.resources
+T:\Study\DDD\ASM library management database\ASM library management database\obj\Debug\ASM_library_management_database.Properties.Resources.resources
+T:\Study\DDD\ASM library management database\ASM library management database\obj\Debug\ASM library management database.csproj.GenerateResource.cache
+T:\Study\DDD\ASM library management database\ASM library management database\obj\Debug\ASM library management database.csproj.CoreCompileInputs.cache
+T:\Study\DDD\ASM library management database\ASM library management database\obj\Debug\ASM library management database.exe
+T:\Study\DDD\ASM library management database\ASM library management database\obj\Debug\ASM library management database.pdb
+T:\Study\DDD\ASM library management database\ASM library management database\obj\Debug\ASM_library_management_database.BookManagement.resources
+T:\Study\DDD\ASM library management database\ASM library management database\obj\Debug\ASM_library_management_database.ViewBook.resources
